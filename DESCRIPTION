@@ -1,0 +1,61 @@
+Package: azores.fkw
+Type: Package
+Title: R Compendium Accompanying Peres dos Santos et al. (2025)
+Version: 1.0.0
+Authors@R: c(
+    person(given = "Ramiro", family = "Magno",
+      email = "rmagno@pattern.institute",
+      role = c("aut", "cre"),
+      comment = c(ORCID = "0000-0001-5226-3441")),
+    person(given = "Rui", family = "Peres dos Santos",
+      email = "rpsantos@pattern.institute",
+      role = c("aut", "dtc")),
+    person(given = "Rita", family = "Castilho",
+      email = "rcastil@ualg.pt", role = c("aut", "ths"), 
+      comment = c(ORCID = "0000-0003-0727-3688")),
+    person("CCMAR", role = c("cph", "fnd")),
+    person("Pattern Institute", role = c("cph", "fnd"))
+    )
+Description: An R Compendium providing data, code and documentation needed to
+    replicate the results of the paper Peres dos Santos, R., Rodríguez, Y.,
+    Sears, R., Magno, R. and Castilho, R. Tour-operators as a key tool to improve
+    information on data deficient cetacean species. JOURNAL XX, DDD–DDD (YYYY).
+    <doi:xx.xxxx/xxxxxx-xxx-xxxxx-x>.
+License: CC BY 4.0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports: 
+    cli,
+    dplyr,
+    geosphere,
+    ggplot2,
+    ggraph,
+    ggspatial,
+    gpx,
+    hms,
+    lubridate,
+    metR,
+    mgsub,
+    openCR,
+    patchwork,
+    purrr,
+    raster,
+    readr,
+    rlang,
+    scales,
+    secr,
+    stars,
+    tibble,
+    tidygraph,
+    tidyr
+Roxygen: list(markdown = TRUE)
+Depends: 
+    R (>= 3.5.0),
+    sf
+Suggests: 
+    readxl,
+    snakecase,
+    stringr,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3

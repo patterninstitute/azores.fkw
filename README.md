@@ -11,16 +11,16 @@ BY
 <!-- badges: end -->
 
 `{azores.fkw}` is an R compendium for Peres dos Santos, R., Rodríguez,
-Y., Sears, R., Magno, R. and Castilho, R. *Tour-operators as key tool to
-improve information on data deficient cetacean species*. Aquatic
-Conservation: Marine and Freshwater Ecosystems XX, DDD–DDD (YYYY).
-<doi:xx.xxxx/xxxxxx-xxx-xxxxx-x>.
+Y., Sears, R., Magno, R. and Castilho, R. *Tour Operators as a Tool to
+Improve Information on Data-Deficient Cetacean Species*. Aquatic
+Conservation: Marine and Freshwater Ecosystems 32:2, pages e700067
+(2025). DOI: [10.1002/aqc.70067](https://doi.org/10.1002/aqc.70067).
 
 ## Installation
 
 ``` r
 # install.packages("pak")
-pak::install_github("patterninstitute/azores.fkw")
+pak::pak("patterninstitute/azores.fkw")
 ```
 
 ## Data

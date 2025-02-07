@@ -9,7 +9,8 @@ Authors@R: c(
       comment = c(ORCID = "0000-0001-5226-3441")),
     person(given = "Rui", family = "Peres dos Santos",
       email = "rpsantos@pattern.institute",
-      role = c("aut", "dtc")),
+      role = c("aut", "dtc"),
+      comment = c(ORCID = "0000-0002-5979-0700")),
     person(given = "Rita", family = "Castilho",
       email = "rcastil@ualg.pt", role = c("aut", "ths"), 
       comment = c(ORCID = "0000-0003-0727-3688")),
@@ -18,9 +19,10 @@ Authors@R: c(
     )
 Description: An R Compendium providing data, code and documentation needed to
     replicate the results of the paper Peres dos Santos, R., Rodríguez, Y.,
-    Sears, R., Magno, R. and Castilho, R. Tour-operators as a key tool to improve
-    information on data deficient cetacean species. JOURNAL XX, DDD–DDD (YYYY).
-    <doi:xx.xxxx/xxxxxx-xxx-xxxxx-x>.
+    Sears, R., Magno, R. and Castilho, R. Tour Operators as a Tool to Improve
+    Information on Data-Deficient Cetacean Species. Aquatic Conservation: Marine
+    and Freshwater Ecosystems 32:2, pages e700067 (2025).
+    <doi:10.1002/aqc.70067>.
 License: CC BY 4.0
 Encoding: UTF-8
 LazyData: true

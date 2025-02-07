@@ -6,14 +6,14 @@
 \alias{azores.fkw-package}
 \title{azores.fkw: R Compendium Accompanying Peres dos Santos et al. (2025)}
 \description{
-An R Compendium providing data, code and documentation needed to replicate the results of the paper Peres dos Santos, R., Rodríguez, Y., Magno, R., Sears, R. and Castilho, R. Tour-operators as a key tool to improve information on data deficient cetacean species. JOURNAL XX, DDD–DDD (YYYY). \doi{xx.xxxx/xxxxxx-xxx-xxxxx-x}.
+An R Compendium providing data, code and documentation needed to replicate the results of the paper Peres dos Santos, R., Rodríguez, Y., Sears, R., Magno, R. and Castilho, R. Tour Operators as a Tool to Improve Information on Data-Deficient Cetacean Species. Aquatic Conservation: Marine and Freshwater Ecosystems 32:2, pages e700067 (2025). \doi{10.1002/aqc.70067}.
 }
 \author{
 \strong{Maintainer}: Ramiro Magno \email{rmagno@pattern.institute} (\href{https://orcid.org/0000-0001-5226-3441}{ORCID})
 
 Authors:
 \itemize{
-  \item Rui Peres dos Santos \email{rpsantos@pattern.institute} [data contributor]
+  \item Rui Peres dos Santos \email{rpsantos@pattern.institute} (\href{https://orcid.org/0000-0002-5979-0700}{ORCID}) [data contributor]
   \item Rita Castilho \email{rcastil@ualg.pt} (\href{https://orcid.org/0000-0003-0727-3688}{ORCID}) [thesis advisor]
 }
 
